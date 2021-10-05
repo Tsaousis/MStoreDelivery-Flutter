@@ -8,3 +8,6 @@ If you want to have further information about this project, you can contact me o
 You can also download the apk (orders.apk) to test the app yourself on an Android device.
 
 For the Web App you can have a look here https://github.com/Tsaousis/MStoreDelivery-Django
+
+![image](https://user-images.githubusercontent.com/75045818/136021428-3e8a30e1-5fd4-4a00-890d-a12d63516d0d.png)
+
