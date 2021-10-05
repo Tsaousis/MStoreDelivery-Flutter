@@ -9,7 +9,7 @@ You can also download the apk (orders.apk) to test the app yourself on an Androi
 
 For the Web App you can have a look here https://github.com/Tsaousis/MStoreDelivery-Django
 
-Below there are some photos from the demo.
+Below there are some photos of the demo of the delivery guys' app.
 
 ![image](https://user-images.githubusercontent.com/75045818/136021428-3e8a30e1-5fd4-4a00-890d-a12d63516d0d.png)
 
